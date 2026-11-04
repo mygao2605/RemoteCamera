@@ -1,0 +1,7 @@
+{
+    "SLAVE_ID": 1,
+    "SERIAL_PORT": "COM9",
+    "BAUDRATE": 256000,
+    "IP": "0.0.0.0",
+    "PORT": 60
+}
